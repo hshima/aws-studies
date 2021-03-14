@@ -35,3 +35,10 @@ Essa característica é a diferenciação que a AWS provê ao seu negócio, pois
 
 ### Modelos de desenvolvimento (deployment) para computação em nuvem
 Ao contratar os recursos computacionais, é importante considerar os fatores de negócio para a escolha da precificação adequada dos recursos.
+A AWS disponibiliza três modelos de nuvem:
+- Cloud-based deployment
+  - A aplicação roda totalmente na nuvem\
+  As 
+- On-premisses deployment
+- Hybrid deployment
+
