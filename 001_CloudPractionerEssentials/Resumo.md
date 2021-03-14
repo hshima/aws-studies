@@ -20,10 +20,18 @@ Para realizar os serviços de servidor, o serviço Amazon Elastic Computing Clou
 
 ### Conceito chave: Pagar apenas pelo que se usa
 Entretanto, a visão de cliente-servidor é muito limitada pois não compreende a complexidade dos serviços que podem utilizados, como pagar apenas pelo tempo de serviço que está sendo usado de fato, como em um custo fixo.
-
 ```text
 Analogia:
 
 Pensando em um empregado que contrata um serviço de entrega de comida por aplicativo, não faz sentido pagar pelo mês inteiro (CLT) ou mesmo por dia quando a demanda varia durante o mês.
 Um serviço por aplicativo funciona sob demanda, cobrando por transação.
 ```
+Os servidores on-premisses fixam os custos de servidores comprometendo o potencional de margem. A Amazon formata os serviços para que cada recurso seja acionado de acordo com a necessidade do negócio, aumentando ou reduzindo a quantidade de recursos.
+
+## Cloud Computing
+Computação em nuvem é o serviço de entrega ou devolução de recursos computacionais sob demanda pela internet, com precificação pre-paga.
+
+Essa característica é a diferenciação que a AWS provê ao seu negócio, pois o "trabalho duro" (heavy lifting) de disponibilização de recursos passam a ser responsabilidade da Amazon, ajustando a estrutura para permitir que os recursos computacionais sejam entregues conforme a necessidade sem necessidade de adições contratuais e condições intrincadas.
+
+### Modelos de desenvolvimento (deployment) para computação em nuvem
+Ao contratar os recursos computacionais, é importante considerar os fatores de negócio para a escolha da precificação adequada dos recursos.
