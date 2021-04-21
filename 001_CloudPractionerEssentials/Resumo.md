@@ -37,8 +37,39 @@ Essa característica é a diferenciação que a AWS provê ao seu negócio, pois
 Ao contratar os recursos computacionais, é importante considerar os fatores de negócio para a escolha da precificação adequada dos recursos.
 A AWS disponibiliza três modelos de nuvem:
 - Cloud-based deployment
-  - A aplicação roda totalmente na nuvem\
-  As 
-- On-premisses deployment
+  - A aplicação roda totalmente na nuvem
+  - Migração de aplicações existentes para a nuvem
+  - Desenvolva e entregue uma nova aplicação na nuvem
+- On-premisses deployment - também conhecida como *private cloud* 
+  - Posicionar recursos usando virtualização e ferramentas de gestão de recursos
+  - Aumentar o aproveitamento de recursos através de gestão de da aplicação e tecnologias de virtualização
 - Hybrid deployment
+  - Conecte recursos de nuvem a infra-estrutura on-premises
+  - Integre recursos de nuvem com aplicações legadas
 
+## Benefícios da computação em nuvem
+- Substitua custos fixos por custos variáveis
+
+    Remova a necessidade de planejamento para investir em hardware, espaço e contratos de data-centeres.
+
+    A definição de custo variável significa que se pagará apenas pelo que consumir.
+
+    Substituindo investimentos pesados por recursos após utiliza-los, passa o custo apenas aos recursos que foram consumidos no período.
+- Corte de custos em execução e manutenção de data centeres
+
+    Remover a necessidade de manutenção e gestão de dispositivos e equipamentos, resultando no consumo de tempo e dinheiro.
+
+    O investimento em nuvem permite focar menos em tais tarefas e mais nas aplicações e clientes.
+- Pare de tentar adivinhar a capacidade a ser contratada
+    
+    Elimina a necessidade de adivinhar a capacidade necessária de infra estrutura antes de se iniciar uma aplicação. É possível iniciar quantas intâncias de serviços necessárias e devolvê-las assim que não forem mais necessárias.
+
+- Beneficie-se da economia em escala
+
+    Utilizando a computação em nuvem, é possível alcançar um custo variável mais baixo que você mesmo conseguiria por conta própria.
+- Ganhe velocidade e agilidade
+
+    A flexibilidade da nuvem permite que seja mais fácil desenvolver e entregar aplicações, em comparação com recursos de data-centers (precisam ser comprados, entregues, instalados, configurados, etc...).
+- Atenda ao mundo todo em minutos
+
+    A distribuição global da AWS permite que suas aplicações sejam entregues e alcançadas em todo o mundo com a menor latência.
